@@ -1,0 +1,49 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiohappyeyeballs-2.4.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/LICENSE",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/METADATA",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/RECORD",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/WHEEL",
+    "Lib/site-packages/aiohappyeyeballs-2.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/aiohappyeyeballs/__init__.py",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/impl.cpython-312.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/types.cpython-312.pyc",
+    "Lib/site-packages/aiohappyeyeballs/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/aiohappyeyeballs/impl.py",
+    "Lib/site-packages/aiohappyeyeballs/py.typed",
+    "Lib/site-packages/aiohappyeyeballs/types.py",
+    "Lib/site-packages/aiohappyeyeballs/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "aiohappyeyeballs-2.4.0-py312haa95532_0.conda",
+  "license": "PSF-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiohappyeyeballs-2.4.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "9946127bf48ad0ce3b4a7bda23948292",
+  "name": "aiohappyeyeballs",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiohappyeyeballs-2.4.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aiohappyeyeballs==2.4.0=py312haa95532_0[md5=9946127bf48ad0ce3b4a7bda23948292]",
+  "sha256": "6b451a0d4f263df91c59527ba5a65267f78f37778e384f8075470cfcd1825e63",
+  "size": 23422,
+  "subdir": "win-64",
+  "timestamp": 1725434133000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aiohappyeyeballs-2.4.0-py312haa95532_0.conda",
+  "version": "2.4.0"
+}
